@@ -49,8 +49,7 @@ The final queries used table joins and aggregation functions like `SUM`, `AVG`, 
 
 ## 📁 File Structure
 
-- `queries/questions.sql`: All final queries used in the analysis
-- `data/schema.png`: (Optional) Visual of database schema
+- `queries/Customer Behavior Analysis.sql`: All final queries used in the analysis
 - `README.md`: Project overview and insights
 
 ---
